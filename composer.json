@@ -25,6 +25,18 @@
     {
       "type": "vcs",
       "url": "https://github.com/PhrameCMS/dependency-injection-bridge"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PhrameCMS/routing-bridge"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PhrameCMS/twig-bridge"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/PhrameCMS/doctrine-dbal-bridge"
     }
   ],
   "autoload-dev": {
